@@ -1,0 +1,15 @@
+{
+  "name": "04-expressjs",
+  "version": "1.0.0",
+  "description": "_Express.js_ o simplemente _Express_ es un framework diseñado para crear aplicaciones web y APIS. Está bajo la licencia [MIT](https://en.wikipedia.org/wiki/MIT_License), y es, tal vez, el framework web más usado en el ecosistema de Nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
